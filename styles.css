@@ -6,9 +6,7 @@
 
 @font-face {
     font-family: 'Owerstinn';
-    src: url('/fonts/OWERSTINN.woff2') format('woff2');
-         /* url('/fonts/mycustomfont.woff') format('woff'),
-         url('/fonts/mycustomfont.ttf') format('truetype'); */
+    src: url('fonts/OWERSTINN.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
