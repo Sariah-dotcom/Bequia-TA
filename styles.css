@@ -4,6 +4,16 @@
     padding: 0;
 }
 
+@font-face {
+    font-family: 'Owerstinn';
+    src: url('/fonts/OWERSTINN.woff2') format('woff2');
+         /* url('/fonts/mycustomfont.woff') format('woff'),
+         url('/fonts/mycustomfont.ttf') format('truetype'); */
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 h1 {
     font-family: 'Owerstinn',serif;
     font-weight: 300;
